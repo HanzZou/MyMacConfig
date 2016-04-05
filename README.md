@@ -12,8 +12,13 @@
 (5)命令行使用iTerm
 
 (6)版本控制使用SourceTree配合命令行
-
 #其他实用软件
 (1)Alfred的workflow是所有Mac用户必备！
 
 (2)其余贴图在Repo中
+#音乐
+(1)网易云音乐
+
+(2)AtPill(豆瓣电台) http://www.icyarrow.com/labs/atpill.html
+
+(3)Halo(豆瓣每日歌单推荐)
