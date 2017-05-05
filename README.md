@@ -1,7 +1,7 @@
 # MyMacConfig
 这个仓库用来记录我在Mac上开发使用的软件和配置，以备在未保存配置的情况下使用一台新的Mac。
 
-#开发软件
+# 开发软件
 * [Intellij IDEA](https://www.jetbrains.com/idea/)进行Java开发
 * [WebStorm](https://www.jetbrains.com/webstorm/)进行前端开发
 * [PhpStorm](https://www.jetbrains.com/phpstorm/)进行PHP开发
@@ -31,7 +31,7 @@
 * [Spark](https://itunes.apple.com/cn/app/spark-love-your-email-again/id1176895641?mt=12)邮件应用
 * [Maipo](https://itunes.apple.com/cn/app/maipo-%E6%9E%81%E8%87%B4%E5%BE%AE%E5%8D%9A%E4%BD%93%E9%AA%8C/id789066512?mt=12)微博客户端
 
-#音乐
+# 音乐
 * [网易云音乐](https://music.163.com)
 * [豆瓣FM](https://www.douban.fm)
 
